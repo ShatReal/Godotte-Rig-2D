@@ -1022,7 +1022,6 @@ metadata/_local_pose_override_enabled_ = true
 [node name="HandLeft" type="Bone2D" parent="Skeleton2D/Cervix/Torso/UpperArmLeft/LowerArmLeft"]
 position = Vector2(170, 378)
 rotation = -0.0773484
-scale = Vector2(1, 1)
 rest = Transform2D(0.99701, -0.0772713, 0.0772713, 0.99701, 170, 378)
 auto_calculate_length_and_angle = false
 length = 250.0
@@ -1032,7 +1031,6 @@ metadata/_local_pose_override_enabled_ = true
 [node name="UpperArmRight" type="Bone2D" parent="Skeleton2D/Cervix/Torso"]
 position = Vector2(-244, -511)
 rotation = -0.0023179
-scale = Vector2(1, 1)
 rest = Transform2D(0.999997, -0.0023179, 0.0023179, 0.999997, -244, -511)
 metadata/_local_pose_override_enabled_ = true
 
